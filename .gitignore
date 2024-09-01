@@ -1,3 +1,7 @@
+# The subfolders of /data, where large datasets are downloaded or generated
+data/pcam
+data/PCAM_Subset
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
